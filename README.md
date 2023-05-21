@@ -40,7 +40,6 @@ In terms of future development, I envision incorporating unit testing to ensure 
  
 ##  Live Screen Recording of Application Functionality 
 
-https://drive.google.com/file/d/16mjh5Pk8DIZsmYwZ340xfOBqjaGSaVU9/view
 
 ## Screenshots 
 
