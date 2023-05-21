@@ -1,0 +1,13 @@
+{
+  "name": "sql-employee-tracker",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "inquirer": "^8.2.4",
+    "mysql2": "^3.3.1",
+    "sequelize": "^6.31.1"
+  }
+}
