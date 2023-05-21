@@ -45,9 +45,9 @@ In terms of future development, I envision incorporating unit testing to ensure 
 
 <img width="1470" alt="Screenshot 2023-05-20 at 10 16 15 PM" src="https://github.com/Slfdspln/SQL-Employee-Tracker/assets/121422214/42524b79-d0f6-4b30-a54f-733ca6310c7a">
 
-<img width="1470" alt="Screenshot 2023-05-20 at 10 17 49 PM" src="https://github.com/Slfdspln/SQL-Employee-Tracker/assets/121422214/81611ab6-ca19-406e-9e06-549a2248d1b7">
-
 <img width="1470" alt="Screenshot 2023-05-20 at 10 17 12 PM" src="https://github.com/Slfdspln/SQL-Employee-Tracker/assets/121422214/c314866a-bd08-48e0-a42b-90ee905778c3">
+
+<img width="1470" alt="Screenshot 2023-05-20 at 10 17 49 PM" src="https://github.com/Slfdspln/SQL-Employee-Tracker/assets/121422214/81611ab6-ca19-406e-9e06-549a2248d1b7">
 
 <img width="1470" alt="Screenshot 2023-05-20 at 10 18 08 PM" src="https://github.com/Slfdspln/SQL-Employee-Tracker/assets/121422214/6e66c681-8d01-4919-bf10-c9f38e82f6fc">
 
