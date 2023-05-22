@@ -16,9 +16,6 @@ Week-12 Challenge (SQL)
           
 *  [Installation](#Installation)
           <a name="Installation"></a> 
-    
-*  [Usage-Information](#Usage-Information)
-          <a name="Usage Information"></a>  
           
 *  [Usage-Information](#Usage-Information)
           <a name="Usage-Information"></a> 
